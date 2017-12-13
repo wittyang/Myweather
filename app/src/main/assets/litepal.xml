@@ -1,0 +1,19 @@
+<litepal>
+
+    <dbname  value= "my_weather"/>
+
+    <version value ="1"/>
+
+    <list>
+        <mapping  class="com.witt.android.myweather.db.Province"/>
+        <mapping  class="com.witt.android.myweather.db.City"/>
+        <mapping  class="com.witt.android.myweather.db.County"/>
+
+
+    </list>
+
+
+
+
+
+</litepal>
